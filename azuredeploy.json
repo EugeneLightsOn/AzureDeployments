@@ -24,7 +24,7 @@
         },
         "imageName": {
             "type": "string",
-            "defaultValue": "cohere.azurecr.io/cohere-toolkit:152"
+            "defaultValue": "ghcr.io/cohere-ai/cohere-toolkit:pr-152"
         },
         "osType": {
             "type": "string",
