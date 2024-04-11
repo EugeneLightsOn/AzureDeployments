@@ -41,13 +41,13 @@
     "imagePassword": {
       "value": null
     },
-    "environmentVariable0": {
+    "cohereApiKey": {
       "value": null
     },
-    "environmentVariable1": {
+    "frontendPublicApiUrl": {
       "value": "http://toolkit-app.canadacentral.azurecontainer.io:8000"
     },
-    "env_fe_port": {
+    "frontendPort": {
       "value": "4000"
     },
     "ipAddressType": {

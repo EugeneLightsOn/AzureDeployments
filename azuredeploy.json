@@ -193,15 +193,15 @@
                             "environmentVariables": [
                                 {
                                     "name": "COHERE_API_KEY",
-                                    "secureValue": "[parameters('environmentVariable0')]"
+                                    "secureValue": "[parameters('cohereApiKey')]"
                                 },
                                 {
                                     "name": "NEXT_PUBLIC_API_HOSTNAME",
-                                    "value": "[parameters('environmentVariable1')]"
+                                    "value": "[parameters('frontendPublicApiUrl')]"
                                 },
                                 {
                                     "name": "PORT",
-                                    "value": "[parameters('env_fe_port')]"
+                                    "value": "[parameters('frontendPort')]"
                                 }
                             ],
                             "ports": "[parameters('ports')]"
