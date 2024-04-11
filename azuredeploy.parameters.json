@@ -44,9 +44,6 @@
     "cohereApiKey": {
       "value": null
     },
-    "frontendPublicApiUrl": {
-      "value": "http://toolkit-app.canadacentral.azurecontainer.io:8000"
-    },
     "frontendPort": {
       "value": "4000"
     },
