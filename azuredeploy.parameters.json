@@ -5,6 +5,9 @@
         "name": {
             "value": "acilinuxpublicipcontainergroup"
         },
+        "location": {
+            "value": "canadacentral"
+        },
         "image": {
             "value": "mcr.microsoft.com/azuredocs/aci-helloworld"
         },
