@@ -47,6 +47,9 @@
     "frontendPort": {
       "value": "4000"
     },
+    "backendPort": {
+      "value": "8000"
+    },
     "ipAddressType": {
       "value": "Public"
     },
