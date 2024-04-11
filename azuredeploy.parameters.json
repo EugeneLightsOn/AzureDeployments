@@ -5,9 +5,6 @@
         "name": {
             "value": "acilinuxpublicipcontainergroup"
         },
-        "location": {
-            "value": "[resourceGroup().location]"
-        },
         "image": {
             "value": "mcr.microsoft.com/azuredocs/aci-helloworld"
         },
