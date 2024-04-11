@@ -39,10 +39,10 @@
             "value": "EugeneLightsOn"
         },
         "imagePassword": {
-            "value": null
+            "value": ""
         },
         "environmentVariable0": {
-            "value": null
+            "value": ""
         },
         "env_fe_port": {
             "value": "4000"
