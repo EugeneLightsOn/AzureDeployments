@@ -2,6 +2,9 @@
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
+        "utcTime": {
+            "value": ""
+        },
         "availabilityZones": {
             "value": []
         },
@@ -33,7 +36,7 @@
             "value": "Standard"
         },
         "environmentVariable0": {
-            "value": "aaaa"
+            "value": null
         },
         "environmentVariable1": {
             "value": "2000"
