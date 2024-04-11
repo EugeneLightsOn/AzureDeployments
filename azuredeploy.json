@@ -4,7 +4,7 @@
     "parameters": {
         "utcTime": {
             "type": "string",
-            "defaultValue": "[utcnow('yyyymmddHHmmss')]"
+            "defaultValue": "[utcNow('yyyy-mm-dd-hh-mm-ss')]"
         },
         "availabilityZones": {
             "type": "array"
