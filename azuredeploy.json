@@ -64,6 +64,9 @@
         "environmentVariable1": {
             "type": "string"
         },
+        "env_fe_port": {
+            "type": "string"
+        },
         "ipAddressType": {
             "type": "string"
         },
