@@ -16,8 +16,7 @@
             "allowedValues": [
                 "Public",
                 "Private"
-            ],
-            "defaultValue": "Private"
+            ]
         },
         "imageName": {
             "type": "string"
