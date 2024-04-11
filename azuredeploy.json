@@ -8,7 +8,8 @@
         },
         "location": {
             "type": "string",
-            "defaultValue": "[resourceGroup().location]"
+            "defaultValue": "[resourceGroup().location]",
+            "readOnly": "true"
         },
         "containerName": {
             "type": "string",
