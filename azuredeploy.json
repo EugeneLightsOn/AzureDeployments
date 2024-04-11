@@ -85,7 +85,7 @@
             "location": "[parameters('location')]",
             "name": "[parameters('containerName')]",
             "type": "Microsoft.ContainerInstance/containerGroups",
-            "apiVersion": "2023-05-01",
+            "apiVersion": "2021-09-01",
             "zones": "[parameters('availabilityZones')]",
             "properties": {
                 "containers": [
