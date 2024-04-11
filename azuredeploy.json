@@ -16,7 +16,8 @@
             "allowedValues": [
                 "Public",
                 "Private"
-            ]
+            ],
+            "defaultValue": ["Private"]
         },
         "imageName": {
             "type": "string"
@@ -85,7 +86,7 @@
             "location": "[parameters('location')]",
             "name": "[parameters('containerName')]",
             "type": "Microsoft.ContainerInstance/containerGroups",
-            "apiVersion": "2022-10-01-preview",
+            "apiVersion": "2018-10-01",
             "zones": "[parameters('availabilityZones')]",
             "properties": {
                 "containers": [
