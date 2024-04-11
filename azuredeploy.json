@@ -204,7 +204,7 @@
                                 },
                                 {
                                     "name": "NEXT_PUBLIC_API_HOSTNAME",
-                                    "value": "[concat('http://',parameters('dnsNameLabel'),'-',parameters('utcValue'),'.',parameters('location'),'.azurecontainer.io',':',parameters('backendPort')]"
+                                    "value": "[concat('http://',parameters('dnsNameLabel'),'-',parameters('utcValue'),'.',parameters('location'),'.azurecontainer.io',':',parameters('backendPort'))]"
                                 },
                                 {
                                     "name": "PORT",
